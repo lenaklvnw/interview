@@ -1,0 +1,272 @@
+h1 {
+    font-family: eight, sans-serif;
+    font-style: normal;
+    color: #eb9dfa;
+    font-weight: 400;
+    font-size: 300px; 
+    text-align: center;
+    line-height: 199px;
+    word-spacing: 10px;
+    margin-top: -2%;
+}
+
+h2{ 
+    font-family: eight, sans-serif;
+    font-style: normal;
+    color: #8f271e;
+    position: relative;
+    font-weight: 400;
+    font-size: 22px; 
+    text-align: center;
+    line-height: 25px;
+    margin: 10px 480px 20px;
+    top: 1600px;
+}
+
+h3{ 
+    font-family: eight, sans-serif;
+    font-style: normal;
+    color: #8f271e;
+    position: relative;
+    font-weight: 400;
+    font-size: 15px; 
+    text-align: center;
+    margin: 10px 480px 20px;
+    top: 1620px;
+    left: 260px;
+}
+
+.four{
+    font-family: "divenire-mono", serif;
+    font-weight: bolder;
+    font-style: normal;
+    color: #8f271e;
+    position: relative;
+    font-weight: 1000;
+    font-size: 17px; 
+    text-align: center;
+    margin: 10px 725px 50px;
+    top: 2040px;
+    left: 590px; 
+}
+
+.three{
+    font-family: "divenire-mono", serif;
+    font-weight: bolder;
+    font-style: normal;
+    color: #8f271e;
+    position: absolute;
+    font-weight: 1000;
+    font-size: 17px; 
+    text-align: center;
+    margin: 10px 725px 50px;
+    top: 2230px;
+    left: 230px; 
+}
+
+.two{
+    font-family: "divenire-mono", serif;
+    font-weight: bolder;
+    font-style: normal;
+    color: #8f271e;
+    position: absolute;
+    font-weight: 1000;
+    font-size: 17px; 
+    text-align: center;
+    margin: 10px 600px 50px;
+    top: 2230px;
+    right: 380px; 
+}
+
+
+.one{
+    font-family: "divenire-mono", serif;
+    font-weight: bolder;
+    font-style: normal;
+    color: #8f271e;
+    position: absolute;
+    font-weight: 1000;
+    font-size: 17px; 
+    text-align: center;
+    margin: 0px 405px 50px;
+    top: 2240px;
+    right: 940px; 
+}
+
+.topbar {
+        position: fixed;
+        top: 10px;
+        z-index: 1;
+        left: 210px;
+}
+
+.sparkle1 {
+        position: absolute;
+        top: 50px;
+        left: 50px;
+}
+
+.sparkle2 {
+        position: absolute;
+        top: 420px;
+        right: 160px;
+}
+
+.sparkle3 {
+        position: absolute;
+        top: 920px;
+        left: 250px;
+}
+
+.sparkle4 {
+        position: absolute;
+        top: 1380px;
+        right: 180px;
+}
+
+.sparkle5 {
+        position: absolute;
+        top: 1850px;
+        right: 70px;
+        z-index: -1;
+}
+
+.sparkle6 {
+        position: absolute;
+        top: 1850px;
+        right: 470px;
+        z-index: -1;
+}
+
+.sparkle7 {
+        position: absolute;
+        top: 1850px;
+        right: 870px;
+        z-index: -1;
+}
+
+.sparkle8 {
+        position: absolute;
+        top: 1850px;
+        right: 1240px;
+        z-index: -1;
+}
+
+.img1 {
+        position: absolute;
+        top: 100px;
+        left: 90px;
+}
+
+.thinwhiteduke {
+        position: absolute;
+        top:1900px;
+        left:920px;
+}
+
+.bowieblond {
+        position: absolute;
+        top:1900px;
+        left:1330px;
+}
+
+.bowie60s {
+        position: absolute;
+        top:1895px;
+        left:150px;
+}
+
+.ziggyhead {
+        position: absolute;
+        top:1900px;
+        left:520px;
+}
+
+
+.frame{
+        position: absolute;
+        top:1860px;
+        left:1265px;
+}
+
+.whoisbowie{
+    position: fixed;
+    top: 22px;
+    left: 224px;
+    z-index: 2;
+}
+
+.bowieismusic {
+   position: fixed;
+   top: 22px;
+   left: 498px;
+   z-index: 2; 
+}
+
+.bowieisfashion {
+   position: fixed;
+   top: 22px;
+   left: 800px;
+   z-index: 2; 
+}
+
+.latest {
+    position: fixed;
+    top: 22px;
+    left: 1141px;
+    z-index: 2;
+}
+
+.home {
+    position: fixed;
+    top: 22px;
+    left: 1315px;
+    z-index: 2;
+}
+
+.whoisbowie2{
+    position: absolute;
+    top: 2200px;
+    left: 124px;
+    z-index: 2;
+}
+
+.bowieismusic2 {
+   position: absolute;
+   top: 2200px;
+   left: 478px;
+   z-index: 2; 
+}
+
+.bowieisfashion2 {
+   position: absolute;
+   top: 2200px;
+   left: 870px;
+   z-index: 2; 
+}
+
+.latest2 {
+    position: absolute;
+    top: 2200px;
+    left: 1351px;
+    z-index: 2;
+}
+
+.note {
+    position: absolute;
+    top: 2480px;
+    left: 190px;
+    transform: rotate(-3deg);
+    
+}
+
+.bottom {
+    display: flex;
+    justify-content: center; 
+}
+
+.bottombar {
+        position: absolute;
+        top: 2750px;
+        z-index: 1;
+

@@ -1,0 +1,171 @@
+h2 {
+    font-family: eight, sans-serif;
+    font-style: normal;
+    color: #8f271e;
+    position: relative;
+    font-weight: 400;
+    font-size: 35px; 
+    text-align: center;
+    line-height: 40px;
+    margin: 10px 220px 20px;
+    top: 900px;
+}
+
+.description {
+    font-family: divenire-mono, serif;
+    font-style: normal;
+    color: #8f271e;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+    position: absolute;
+    top: 580px;
+    text-align:justify;
+    margin: 10px 315px 110px;
+    right: 10px;
+}
+
+.text {
+    font-family: divenire-mono, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    position: relative;
+    top: 660px;
+    text-align:justify;
+    margin: 10px 315px 110px;
+    right: 10px;
+    color: #1c1c1c;
+}
+
+.whowherewhy{
+    position: absolute;
+    top: 150px;
+    left: 70px;
+}
+
+.frame3{
+    position: absolute;
+    top: 690px;
+    left: 270px;    
+}
+
+.frame2{
+    position: absolute;
+    top: 1479px;
+    left: 270px;    
+}
+
+.frame4{
+    position: absolute;
+    top: 1700px;
+    left: 270px;    
+}
+
+.selection {
+    position: absolute;
+    top: 2200px;
+    left: 431px; 
+}
+    .selectionbar {
+        position: absolute;
+        top: 2230px;
+        left: 430px;
+    }
+
+.divbar {
+      display: flex;
+      justify-content: center;
+}
+
+.topbar {
+         position: fixed;
+        top: 10px;
+        z-index: 1;
+        left: 210px;
+}
+
+.whoisbowie{
+    position: fixed;
+    top: 22px;
+    left: 223px;
+    z-index: 2;
+}
+
+.bowieismusic {
+   position: fixed;
+   top: 22px;
+   left: 496px;
+   z-index: 2; 
+}
+
+.bowieisfashion {
+   position: fixed;
+   top: 22px;
+   left: 799px;
+   z-index: 2; 
+}
+
+.latest {
+    position: fixed;
+    top: 22px;
+    left: 1140px;
+    z-index: 2;
+}
+
+.home {
+    position: fixed;
+    top: 22px;
+    left: 1315px;
+    z-index: 2;
+}
+
+label {
+  font-family: "divenire-mono", serif;
+  font-weight: bolder;
+  font-style: normal;
+  color: #8f271e;
+  font-size: 1rem;
+  padding-right: 10px;
+}
+
+select {
+  font-size: 0.9rem;
+  padding: 2px 5px;
+}
+
+.sparkle {
+    position: absolute;
+    top:2800px;
+    left: 500px;
+}
+
+.sparkle2 {
+    position: absolute;
+    top:2800px;
+    left: 30px;
+    transform: rotate(180deg);
+}
+
+.ziggystardust {
+    display: flex;
+    justify-content: center; 
+}
+
+
+.ziggy {
+     position: absolute;
+     top: 3000px;
+    
+}
+
+.bottom {
+    display: flex;
+    justify-content: center; 
+}
+
+.bottombar {
+        position: absolute;
+        top: 3960px;
+        z-index: 1;

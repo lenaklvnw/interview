@@ -1,0 +1,75 @@
+.divbar {
+      display: flex;
+      justify-content: center;
+}
+
+.topbar {
+         position: fixed;
+        top: 10px;
+        z-index: 1;
+        left: 210px;
+}
+
+.whoisbowie{
+    position: fixed;
+    top: 22px;
+    left: 223px;
+    z-index: 2;
+}
+
+.bowieismusic {
+   position: fixed;
+   top: 22px;
+   left: 496px;
+   z-index: 2; 
+}
+
+.bowieisfashion {
+   position: fixed;
+   top: 22px;
+   left: 799px;
+   z-index: 2; 
+}
+
+.latest {
+    position: fixed;
+    top: 22px;
+    left: 1140px;
+    z-index: 2;
+}
+
+.home {
+    position: fixed;
+    top: 22px;
+    left: 1315px;
+    z-index: 2;
+}
+
+.fashion_top {
+    position: absolute;
+    top: 150px;
+    left: 90px;
+}
+
+.gallery{
+    position: absolute;
+    top: 550px;
+}
+
+.fashiongallery{
+    display: flex;
+    justify-content: center; 
+}
+
+
+
+
+.bottom {
+    display: flex;
+    justify-content: center; 
+}
+
+.bottombar {
+        position: absolute;
+        top: 3500px;
+        z-index: 1;

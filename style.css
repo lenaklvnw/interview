@@ -1,0 +1,130 @@
+h1 {
+    font-family: eight, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px; 
+    text-align: center;
+    line-height: 90px;
+    word-spacing: 10px;
+    color: #1c1c1c;
+}
+
+h2 {
+    font-family: "divenire-mono", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 29px;
+    position: relative;
+    text-align: justify;
+    margin: 10px 310px 20px;
+    color: #1c1c1c;
+    }
+
+h3 {
+   font-family: "divenire-mono", serif; 
+}
+
+.whoisbowie{
+    position: fixed;
+    top: 22px;
+    left: 223px;
+    z-index: 2;
+}
+
+.bowieismusic {
+   position: fixed;
+   top: 22px;
+   left: 496px;
+   z-index: 2; 
+}
+
+.bowieisfashion {
+   position: fixed;
+   top: 22px;
+   left: 799px;
+   z-index: 2; 
+}
+
+.latest {
+    position: fixed;
+    top: 22px;
+    left: 1140px;
+    z-index: 2;
+}
+
+.home {
+    position: fixed;
+    top: 22px;
+    left: 1315px;
+    z-index: 2;
+}
+
+p {
+    font-family: divenire-mono, serif;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 21px;
+    position: relative;
+    text-align:justify;
+    margin: 10px 315px 100px;
+    right: 10px;
+    color: #1c1c1c;
+}
+
+.gif1 {
+    position: absolute;
+    top: 1180px;
+    left: 543px;
+    max-width: 100%;
+}
+
+.divbar {
+      display: flex;
+      justify-content: center;
+}
+
+.topbar {
+         position: fixed;
+        top: 10px;
+        z-index: 1;
+        left: 210px;
+}
+
+.fullinterviewbutton {
+        position: absolute;
+        top: 830px;
+        left: 310px;      
+}
+
+.talking {
+    position:absolute;
+    top: 880px;
+    left: 5px;
+}
+
+.educating {
+    position:absolute;
+    top: 880px;
+    left: 531px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+.mtvlogo {
+    position:absolute;
+    top: 4800px;
+}
+
+.divbottom {
+    display: flex;
+    justify-content: center; 
+}
+
+.bottombar {
+        position: absolute;
+        top: 4900px;
+        z-index: 1;
